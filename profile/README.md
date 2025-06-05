@@ -24,10 +24,25 @@
 
 <img align="left" height="94px" width="94px" alt="" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyuCP0DhtisYQMd5EY6cSGd-I30iGMQvAbAA&s"/>
 
-**Infotech - Soluções em Tecnologia** \
-[_Infotech Website_](https://www.infotech-solucoes.com/) • Empresa de Soluções em TI \
-Tecnologias: `Laravel`, `Vue`, `Node`, `React`, `Python`, `TypeScript`, `Java` \
-Projetos em destaque: [Framework-WEB](https://fw.infotech-solucoes.com/login?to=/dashboards), [Sistema ERP](https://www.linkedin.com/posts/infotech-solutions_sistema-erp-activity-7254094993617813504-QD6x?utm_source=share&utm_medium=member_desktop)
+**Framework - Web** \
+[_Framework - Web_](https://fw.infotech-solucoes.com/) • Sistema para gerenciamento de projetos \
+Tecnologias: `Laravel`, `Vue` \
+
+<br/>
+
+<img align="left" height="94px" width="94px" alt="" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyuCP0DhtisYQMd5EY6cSGd-I30iGMQvAbAA&s"/>
+
+**Agendo Aqui** \
+[_Framework - Web_](https://fw.infotech-solucoes.com/) • Sistema para gerenciamento de projetos \
+Tecnologias: `Laravel`, `Vue` \
+
+<br/>
+
+<img align="left" height="94px" width="94px" alt="" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyuCP0DhtisYQMd5EY6cSGd-I30iGMQvAbAA&s"/>
+
+**Tropical - Web** \
+[_Framework - Web_](https://fw.infotech-solucoes.com/) • Sistema para gerenciamento de projetos \
+Tecnologias: `Laravel`, `Vue` \
 
 <br/>
 
