@@ -22,28 +22,7 @@
 
 ## Serviços e Projetos
 
-<img align="left" height="94px" width="94px" alt="" src="https://www.infotech-solucoes.com/logo.png"/>
-
-**Infotech - Soluções em Tecnologia** \
-[_Infotech Website_](https://www.infotech-solucoes.com/) • Empresa de Soluções em TI \
-Tecnologias: `Laravel`, `Vue`, `Node`, `React`, `Python`, `TypeScript`, `Java` \
-Projetos em destaque: [Framework-WEB](https://fw.infotech-solucoes.com/login?to=/dashboards), [Sistema ERP](https://www.linkedin.com/posts/infotech-solutions_sistema-erp-activity-7254094993617813504-QD6x?utm_source=share&utm_medium=member_desktop)
-
-<br/>
-
-**Infotech - Soluções em Tecnologia** \
-[_Infotech Website_](https://www.infotech-solucoes.com/) • Empresa de Soluções em TI \
-Tecnologias: `Laravel`, `Vue`, `Node`, `React`, `Python`, `TypeScript`, `Java` \
-Projetos em destaque: [Framework-WEB](https://fw.infotech-solucoes.com/login?to=/dashboards), [Sistema ERP](https://www.linkedin.com/posts/infotech-solutions_sistema-erp-activity-7254094993617813504-QD6x?utm_source=share&utm_medium=member_desktop)
-
-<br/>
-
-**Infotech - Soluções em Tecnologia** \
-[_Infotech Website_](https://www.infotech-solucoes.com/) • Empresa de Soluções em TI \
-Tecnologias: `Laravel`, `Vue`, `Node`, `React`, `Python`, `TypeScript`, `Java` \
-Projetos em destaque: [Framework-WEB](https://fw.infotech-solucoes.com/login?to=/dashboards), [Sistema ERP](https://www.linkedin.com/posts/infotech-solutions_sistema-erp-activity-7254094993617813504-QD6x?utm_source=share&utm_medium=member_desktop)
-
-<br/>
+<img align="left" height="94px" width="94px" alt="" src="https://fw.infotech-solucoes.com/build/assets/infotech250x250-CH6JibDa.png"/>
 
 **Infotech - Soluções em Tecnologia** \
 [_Infotech Website_](https://www.infotech-solucoes.com/) • Empresa de Soluções em TI \
@@ -73,7 +52,6 @@ Projetos em destaque: [Framework-WEB](https://fw.infotech-solucoes.com/login?to=
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
 </div>
 <br/>
 
