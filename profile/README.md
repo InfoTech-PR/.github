@@ -16,13 +16,34 @@
 
 ➽ Desenvolvimento Web - **Avançado** (Laravel, Vue.js, Node.js) <br>
 ➽ Consultoria em TI - **Avançado** (Estruturação de Infraestrutura, Soluções Personalizadas) <br>
-➽ Desenvolvimento de Software Personalizado - **Avançado** (C#, Java, Python)
+➽ Desenvolvimento Desktop - **Avançado** (C++, Python)
 
 <br/>
 
 ## Serviços e Projetos
 
 <img align="left" height="94px" width="94px" alt="" src="https://www.infotech-solucoes.com/logo.png"/>
+
+**Infotech - Soluções em Tecnologia** \
+[_Infotech Website_](https://www.infotech-solucoes.com/) • Empresa de Soluções em TI \
+Tecnologias: `Laravel`, `Vue`, `Node`, `React`, `Python`, `TypeScript`, `Java` \
+Projetos em destaque: [Framework-WEB](https://fw.infotech-solucoes.com/login?to=/dashboards), [Sistema ERP](https://www.linkedin.com/posts/infotech-solutions_sistema-erp-activity-7254094993617813504-QD6x?utm_source=share&utm_medium=member_desktop)
+
+<br/>
+
+**Infotech - Soluções em Tecnologia** \
+[_Infotech Website_](https://www.infotech-solucoes.com/) • Empresa de Soluções em TI \
+Tecnologias: `Laravel`, `Vue`, `Node`, `React`, `Python`, `TypeScript`, `Java` \
+Projetos em destaque: [Framework-WEB](https://fw.infotech-solucoes.com/login?to=/dashboards), [Sistema ERP](https://www.linkedin.com/posts/infotech-solutions_sistema-erp-activity-7254094993617813504-QD6x?utm_source=share&utm_medium=member_desktop)
+
+<br/>
+
+**Infotech - Soluções em Tecnologia** \
+[_Infotech Website_](https://www.infotech-solucoes.com/) • Empresa de Soluções em TI \
+Tecnologias: `Laravel`, `Vue`, `Node`, `React`, `Python`, `TypeScript`, `Java` \
+Projetos em destaque: [Framework-WEB](https://fw.infotech-solucoes.com/login?to=/dashboards), [Sistema ERP](https://www.linkedin.com/posts/infotech-solutions_sistema-erp-activity-7254094993617813504-QD6x?utm_source=share&utm_medium=member_desktop)
+
+<br/>
 
 **Infotech - Soluções em Tecnologia** \
 [_Infotech Website_](https://www.infotech-solucoes.com/) • Empresa de Soluções em TI \
@@ -40,7 +61,6 @@ Projetos em destaque: [Framework-WEB](https://fw.infotech-solucoes.com/login?to=
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 </div>
