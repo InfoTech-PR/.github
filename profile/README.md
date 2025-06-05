@@ -22,7 +22,7 @@
 
 ## Serviços e Projetos
 
-<img align="left" height="94px" width="94px" alt="" src="https://fw.infotech-solucoes.com/build/assets/infotech250x250-CH6JibDa.png"/>
+<img align="left" height="94px" width="94px" alt="" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyuCP0DhtisYQMd5EY6cSGd-I30iGMQvAbAA&s"/>
 
 **Infotech - Soluções em Tecnologia** \
 [_Infotech Website_](https://www.infotech-solucoes.com/) • Empresa de Soluções em TI \
